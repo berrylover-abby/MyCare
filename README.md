@@ -8,13 +8,15 @@ We don't have the same amount of time or energy every day. MyCare is designed wi
 
 The idea is simple: **make it easier to get started, without making every day about productivity.**
 
+**[Visit MyCare →](https://my-care.life/)**
+
 ---
 
 ## ✨ A Look Inside
 
-![MyCare notes interface in the lavender theme](screenshots/notes-preview.png)
+![MyCare home screen, with shortcuts to goals, focus, self-care, and statistics](screenshots/demo_home.png)
 
-*Notes for Your Future Self — an earlier preview in the lavender theme. The interface is still evolving.*
+*The home screen — choose what you want to do today.*
 
 ## 🌷 Features
 
@@ -49,6 +51,29 @@ Import health records from CSV, JSON, or Apple Health XML files to explore trend
 **🎨 Make It Yours**
 
 Switch between English and Chinese, choose a visual theme, customize categories, and edit your morning quotes.
+
+## 📷 More of MyCare
+
+### Focus and daily care
+
+| Flow Mode | Night Routine |
+| :---: | :---: |
+| ![MyCare Flow Mode, showing a focus timer and task area](screenshots/demo_flow_mode.png) | ![MyCare bedtime routine, showing a simple routine and optional music](screenshots/Demo_night.png) |
+| A focus session with a clear next task and flexible session lengths. | A bedtime flow with different routine modes to choose from. |
+
+### Personal and shared goals
+
+| Personal Goals | Family Goals |
+| :---: | :---: |
+| ![MyCare personal goals and deadlines](screenshots/demo_goals.png) | ![MyCare family goal cards with deadlines and notes](screenshots/demo_family%20goals.png) |
+| Track deadlines, add notes, and reflect on completed goals. | Work on shared plans while keeping personal records separate. |
+
+### Reflection and health trends
+
+| Notes for Your Future Self | Health Data Trends |
+| :---: | :---: |
+| ![MyCare notes and mood reflection in the lavender theme](screenshots/Demo_small_note.png) | ![MyCare imported health data summaries and trend charts](screenshots/demo-personal%20statistic.png) |
+| Write a note now and choose when to read it again. | Explore trends in imported health data, stored locally on your device. |
 
 ---
 
@@ -125,6 +150,8 @@ MyCare 是一款支持中英文的个人成长与自我照顾应用，将日常�
 MyCare 希望让这些事情变得简单一点：明确下一步要做什么，在精力不足时适当调整，也能慢慢看见自己的变化。
 
 **不必每天都追求高效率，也可以有自己的成长节奏。**
+
+**[打开 MyCare →](https://my-care.life/)**
 
 ---
 
@@ -230,5 +257,4 @@ MyCare 是我正在持续开发和完善的独立项目。目前主要围绕已�
 
 ---
 
-*MyCare 🌿*  
-*A little space for yourself.*
+*MyCare 🌿 · A little space for yourself.*
